@@ -15,3 +15,23 @@ Date | Time | Subject | Trainer | Summary | Slides | Video | Home task
 07.10.2017 | 12:00 | Grid Layout workshop | [Anton Nemtsev](https://github.com/SilentImp)
 10.10.2017 | 19:00 | JS new stuff | [Aleksey Shvayka](https://github.com/shvaikalesh)
 12.10.2017 | 19:00 | JS new stuff | [Aleksey Shvayka](https://github.com/shvaikalesh)
+14.10.2017 | 12:00 | Babel | Artem Yavorsky
+17.10.2017 | 19:00 | DOM/WC | [Aleksey Shvayka](https://github.com/shvaikalesh)
+19.10.2017 | 19:00 | CORS/XSS/CSP | [Aleksey Shvayka](https://github.com/shvaikalesh)
+21.10.2017 | 12:00 | Mocha/Chai/TDD | [Aleksey Shvayka](https://github.com/shvaikalesh)
+24.10.2017 | 19:00 | PWA | Artem Denysov
+--.--.2017 | --:00 | CI/CD | Yuri Tkachenko
+--.--.2017 | --:00 | Webpack | Ivan Akulov [r]
+--.--.2017 | --:00 | React | Kateryna Porshnieva
+--.--.2017 | --:00 | React + Redux | Kateryna Porshnieva
+--.--.2017 | --:00 | React + Redux | Kateryna Porshnieva
+--.--.2017 | --:00 | Vue | Illya Klymov
+--.--.2017 | --:00 | Vue + Vuex | Illya Klymov
+--.--.2017 | --:00 | Vue | Illya Klymov
+--.--.2017 | --:00 | Flow | Illya Klymov
+--.--.2017 | --:00 | React + MobX | Andy Kogut ?
+--.--.2017 | --:00 | |
+--.--.2017 | --:00 | HTTP | [Aleksey Shvayka](https://github.com/shvaikalesh)
+--.--.2017 | --:00 | Node: basics | [Aleksey Shvayka](https://github.com/shvaikalesh)
+--.--.2017 | --:00 | Node | Andrey Listochkin
+--.--.2017 | --:00 | Outro | [ASychov](https://github.com/suchov)
