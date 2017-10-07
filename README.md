@@ -12,7 +12,7 @@ Date | Time | Subject | Trainer | Summary | Slides | Video | Home task
 30.09.2017 | 12:00 |
 03.10.2017 | 19:00 | JS old stuff | [Aleksey Shvayka](https://github.com/shvaikalesh)
 05.10.2017 | 19:00 | JS new stuff | [Aleksey Shvayka](https://github.com/shvaikalesh)
-07.10.2017 | 12:00 | Grid Layout workshop | [Anton Nemtsev](https://github.com/SilentImp)
+07.10.2017 | 12:00 | Grid Layout workshop | [Anton Nemtsev](https://github.com/SilentImp)||[Slides](https://silentimp.github.io/grid/)||[task](https://docs.google.com/document/d/1sMaCr7T8osfR5Lhn2-5gGFhU7Lxcd0SqNuy_YFfunLs/edit?usp=sharing)
 10.10.2017 | 19:00 | JS new stuff | [Aleksey Shvayka](https://github.com/shvaikalesh)
 12.10.2017 | 19:00 | JS new stuff | [Aleksey Shvayka](https://github.com/shvaikalesh)
 14.10.2017 | 12:00 | Babel | Artem Yavorsky
