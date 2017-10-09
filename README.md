@@ -14,10 +14,11 @@ Date | Time | Subject | Trainer | Summary | Slides | Video | Home task
 07.10.2017 | 12:00 | Grid Layout workshop | [Anton Nemtsev](https://github.com/SilentImp)| [Summary](lecture_summary/171007_workshop_grid_layout.md)|[Slides](https://silentimp.github.io/grid/)||[task](https://docs.google.com/document/d/1sMaCr7T8osfR5Lhn2-5gGFhU7Lxcd0SqNuy_YFfunLs/edit?usp=sharing)
 10.10.2017 | 19:00 | JS: generators & promises | [Aleksey Shvayka](https://github.com/shvaikalesh)
 12.10.2017 | 19:00 | JS new stuff | [Aleksey Shvayka](https://github.com/shvaikalesh)
-17.10.2017 | 19:00 | DOM/WC | [Aleksey Shvayka](https://github.com/shvaikalesh)
-19.10.2017 | 19:00 | CORS/XSS/CSP | [Aleksey Shvayka](https://github.com/shvaikalesh)
-21.10.2017 | 12:00 | Mocha/Chai/TDD | [Aleksey Shvayka](https://github.com/shvaikalesh)
+17.10.2017 | 19:00 | DOM APIs | [Aleksey Shvayka](https://github.com/shvaikalesh)
+19.10.2017 | 19:00 | Web Components | [Aleksey Shvayka](https://github.com/shvaikalesh)
+21.10.2017 | 12:00 | ESLint workshop | [Aleksey Shvayka](https://github.com/shvaikalesh)
 24.10.2017 | 19:00 | PWA | Artem Denysov
+28.10.2017 | 12:00 | Mocha/Chai/TDD | [Aleksey Shvayka](https://github.com/shvaikalesh)
 --.--.2017 | --:00 | CI/CD | Yuri Tkachenko
 --.--.2017 | --:00 | Webpack | Ivan Akulov [r]
 --.--.2017 | --:00 | React | Kateryna Porshnieva
