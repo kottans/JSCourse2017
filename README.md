@@ -14,7 +14,7 @@ Date | Time | Subject | Trainer | Summary | Slides | Video | Home task
 07.10.2017 | 12:00 | Grid Layout workshop | [Anton Nemtsev](https://github.com/SilentImp)| [Summary](lecture_summary/171007_workshop_grid_layout.md)|[Slides](https://silentimp.github.io/grid/)||[task](https://docs.google.com/document/d/1sMaCr7T8osfR5Lhn2-5gGFhU7Lxcd0SqNuy_YFfunLs/edit?usp=sharing)
 Tue Oct 10 | 19:00 | ES6: symbols, collections, generators | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Thu Oct 12 | 19:00 | ES6: promises, proxies | [Aleksey Shvayka](https://github.com/shvaikalesh) (remotely)
-Tue Oct 17 | 19:00 | DOM APIs | [Aleksey Shvayka](https://github.com/shvaikalesh)
+Tue Oct 17 | 19:00 | DOM APIs | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Summary](lecture_summary/171016_dom_api.md) ||| [task](assignments/171016_dom_api.md)
 Thu Oct 19 | 19:00 | Web Components | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Sat Oct 21 | 12:00 | ESLint workshop | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Tue Oct 24 | 19:00 | PWA | [Artem Denysov](https://github.com/denar90)
