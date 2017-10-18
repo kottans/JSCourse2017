@@ -22,7 +22,7 @@ Thu Oct 26 | 19:00 | Security | [Aleksey Shvayka](https://github.com/shvaikalesh
 Sat Oct 28 | 12:00 | **[workshop]** Mocha/Chai/TDD | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Sat Nov 4  | 12:00 | **[workshop]** Babel | [Artem Yavorsky](https://github.com/yavorsky)
 --.--.2017 | --:00 | CI/CD | Yuri Tkachenko
---.--.2017 | --:00 | [remote] Webpack | Ivan Akulov
+Sat Nov 11 | 12:00 | **[remote]** **[workshop]** Webpack | [Ivan Akulov](https://github.com/iamakulov)
 --.--.2017 | --:00 | React | Kateryna Porshnieva
 --.--.2017 | --:00 | React + Redux | Kateryna Porshnieva
 --.--.2017 | --:00 | React + Redux | Kateryna Porshnieva
