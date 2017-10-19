@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/Kottans/JSCourse2017](https://badges.gitter.im/Kottans/JSCourse2017.svg)](https://gitter.im/Kottans/JSCourse2017?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Date       | Time  | Subject | Trainer | Summary | Slides | Video | Home task
+Date       | Time  | Topic   | Coach   | Summary | Slides | Video | Home task
 -----------|-------|---------|---------|---------|--------|-------|----------
 Tue Sep 19 | 19:00 | Intro   | [Alex Lapshyn](https://github.com/sudodoki)|| [Slides](http://sudodoki.github.io/slides/kottans-intro-slides) |[Video](https://youtu.be/3wZsafZ0UPk) | [task](https://gist.github.com/sudodoki/5bc7551f1fcf6540d1f70fdf0726220e)
 Thu Sep 21 | 19:00 | HTML: new stuff | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Summary](lecture_summary/170921_html.md) | |TBA | [task](assignments/170921_html.md)
