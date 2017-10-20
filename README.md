@@ -15,7 +15,7 @@ Sat Oct 7 | 12:00 | **[workshop]** Grid Layout | [Anton Nemtsev](https://github.
 Tue Oct 10 | 19:00 | JS: symbols, collections, generators | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Thu Oct 12 | 19:00 | **[remote]** JS: promises, proxies | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Tue Oct 17 | 19:00 | DOM APIs | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Summary](lecture_summary/171016_dom_api.md) ||| [task](assignments/171016_dom_api.md)
-Thu Oct 19 | 19:00 | Web Components | [Aleksey Shvayka](https://github.com/shvaikalesh)
+Thu Oct 19 | 19:00 | Web Components | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Summary](lecture_summary/171019_web_components.md) ||| [task](assignments/171019_web_components.md)
 Sat Oct 21 | 12:00 | **[workshop]** ESLint | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Tue Oct 24 | 19:00 | PWA | [Artem Denysov](https://github.com/denar90)
 Thu Oct 26 | 19:00 | Security | [Aleksey Shvayka](https://github.com/shvaikalesh)
