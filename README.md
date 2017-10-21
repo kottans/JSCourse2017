@@ -21,6 +21,7 @@ Tue Oct 24 | 19:00 | PWA | [Artem Denysov](https://github.com/denar90)
 Thu Oct 26 | 19:00 | Security | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Sat Oct 28 | 12:00 | **[workshop]** Mocha/Chai/TDD | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Sat Nov 4  | 12:00 | **[workshop]** Babel | [Artem Yavorsky](https://github.com/yavorsky)
+Tue Nov 7  | 19:00 | CSS in JS | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Sat Nov 9  | 19:00 | CI/CD | [Yuri Tkachenko](https://github.com/tyv)
 Sat Nov 11 | 12:00 | **[remote]** **[workshop]** Webpack | [Ivan Akulov](https://github.com/iamakulov)
 --.--.2017 | --:00 | React | Kateryna Porshnieva
