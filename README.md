@@ -17,7 +17,7 @@ Thu Oct 12 | 19:00 | **[remote]** JS: promises, proxies | [Aleksey Shvayka](http
 Tue Oct 17 | 19:00 | DOM APIs | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Summary](lecture_summary/171016_dom_api.md) ||| [task](assignments/171016_dom_api.md)
 Thu Oct 19 | 19:00 | Web Components | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Summary](lecture_summary/171019_web_components.md) ||| [task](assignments/171019_web_components.md)
 Sat Oct 21 | 12:00 | **[workshop]** ESLint | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Code](lecture_summary/171021_eslint_workshop.md)
-Tue Oct 24 | 19:00 | PWA | [Artem Denysov](https://github.com/denar90)
+Tue Oct 24 | 19:00 | PWA | [Artem Denysov](https://github.com/denar90) || [Slides](https://docs.google.com/presentation/d/1JghXnEAANvAW1tSkLRuhFISocGVkIpQKIIJJnwdTHCI/present?slide=id.p)
 Thu Oct 26 | 19:00 | Security | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Sat Oct 28 | 12:00 | **[workshop]** Mocha/Chai/TDD | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Sat Nov 4  | 12:00 | **[workshop]** Babel | [Artem Yavorsky](https://github.com/yavorsky)
