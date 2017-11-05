@@ -21,6 +21,7 @@ Tue Oct 24 | 19:00 | PWA | [Artem Denysov](https://github.com/denar90) || [Slide
 Sat Oct 28 | 12:00 | **[workshop]** Mocha/Chai/TDD | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Tue Oct 31 | 19:00 | Fetch, XSS, CQRS, CSP | [Aleksey Shvayka](https://github.com/shvaikalesh)
 Sat Nov 4  | 12:00 | **[workshop]** Babel | [Artem Yavorsky](https://github.com/yavorsky)
+Thu Nov 7  | 19:00 | Secret topic | [Roman Liutikov](https://github.com/roman01la)
 Thu Nov 9  | 19:00 | CI/CD | [Yuri Tkachenko](https://github.com/tyv)
 Sat Nov 11 | 12:00 | **[remote]** **[workshop]** Webpack | [Ivan Akulov](https://github.com/iamakulov)
 Tue Nov 14 | 19:00 | HTTP | [Aleksey Shvayka](https://github.com/shvaikalesh)
