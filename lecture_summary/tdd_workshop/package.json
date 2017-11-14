@@ -1,0 +1,15 @@
+{
+    "name": "kata",
+    "version": "1.0.0",
+    "description": "tdd kata",
+    "scripts": {
+      "test": "mocha -r chai/register-should --harmony",
+      "test:watch": "mocha -r chai/register-should --harmony -w"
+    },
+    "author": "Kottans",
+    "license": "MIT",
+    "devDependencies": {
+      "chai": "^4",
+      "mocha": "^4"
+    }
+  }
