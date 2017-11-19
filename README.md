@@ -30,8 +30,8 @@ Sat Nov 18 | 12:00 | **[workshop]** Node | [Andrey Listochkin](https://github.co
 Tue Nov 21 | 19:00 | React | [Kateryna Porshnieva](https://github.com/krambertech)
 Thu Nov 23 | 19:00 | React + Redux | [Kateryna Porshnieva](https://github.com/krambertech)
 Sat Nov 25 | 12:00 | **[workshop]** React + Redux | [Kateryna Porshnieva](https://github.com/krambertech)
---.--.2017 | --:00 | Vue |
---.--.2017 | --:00 | Vue + Vuex |
---.--.2017 | --:00 | Vue |
+Tue Nov 28 | 19:00 | Vue | [Volodymyr Stelmakh](https://github.com/stelmakh)
+Thu Nov 30 | 19:00 | Vue + Vuex | [Volodymyr Stelmakh](https://github.com/stelmakh)
+Sat Dec 2  | 12:00 | **[workshop]** Vue | [Volodymyr Stelmakh](https://github.com/stelmakh)
 --.--.2017 | --:00 | Flow |
 --.--.2017 | --:00 | Outro | [Artem Sychov](https://github.com/suchov)
