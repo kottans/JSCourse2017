@@ -33,6 +33,6 @@ Tue Nov 28 | 19:00 | Vue | [Volodymyr Stelmakh](https://github.com/stelmakh)
 Sat Dec 2  | 12:00 | **[workshop]** Vue | [Volodymyr Stelmakh](https://github.com/stelmakh)
 Tue Dec 5  | 19:00 | Data visualization with d3 | [Alex Lapshyn](https://github.com/sudodoki) || [Slides](http://sudodoki.github.io/slides/kottans-visualization/)
 Thu Dec 7  | 19:00 | MobX | [Aleksey Shvayka](https://github.com/shvaikalesh)
-Tue Dec 12 | 19:00 | Flowtype | [Stas Gavrylov](https://github.com/stasgavrylov)
+Tue Dec 12 | 19:00 | Flowtype | [Stas Gavrylov](https://github.com/stasgavrylov) | [Summary](lecture_summary/171212_flow.md)|
 Thu Dec 14 | 19:00 | Outro | [Artem Sychov](https://github.com/suchov)
 Sat Dec 16 | 12:00 | **[workshop]** React + Redux |
