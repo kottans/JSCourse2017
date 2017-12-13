@@ -26,7 +26,7 @@ Thu Nov 9  | 19:00 | CI/CD | [Yuri Tkachenko](https://github.com/tyv) | [Config]
 Sat Nov 11 | 12:00 | **[remote]** **[workshop]** Webpack | [Ivan Akulov](https://github.com/iamakulov) | | | [Video](https://youtu.be/WhOxdbcgd3E?list=PLTbz5Wv5vNcs0zKKmF0DSo6m05RnMqUXk)
 Tue Nov 14 | 19:00 | HTTP | [Aleksey Shvayka](https://github.com/shvaikalesh) | [Summary](lecture_summary/171114_http.md)
 Thu Nov 16 | 19:00 | Node: basics | [Aleksey Shvayka](https://github.com/shvaikalesh)
-Sat Nov 18 | 12:00 | **[workshop]** Node | [Andrey Listochkin](https://github.com/listochkin)
+Sat Nov 18 | 12:00 | **[workshop]** Node | [Andrey Listochkin](https://github.com/listochkin) ||| [Video](https://www.youtube.com/watch?v=8ngwCn89uJ0)
 Tue Nov 21 | 19:00 | React | [Kateryna Porshnieva](https://github.com/krambertech)
 Thu Nov 23 | 19:00 | React + Redux | [Kateryna Porshnieva](https://github.com/krambertech)
 Tue Nov 28 | 19:00 | Vue | [Volodymyr Stelmakh](https://github.com/stelmakh)
